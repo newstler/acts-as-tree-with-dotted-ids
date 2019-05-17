@@ -52,7 +52,7 @@ The following methods of have been rewritten to take advantage of the dotted IDs
 * +root+
 * +ancestors+
 * +siblings+
-* +self_and_sibblings+
+* +self_and_siblings+
 
 
 == Migration
